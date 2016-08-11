@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DaggerSample</string>
+    <string name="user_email">UserEmail</string>
+    <string name="submit">submit</string>
+    <string name="email_error">Please enter a valid email address</string>
+    <string name="password_error">password should be of minimum six character</string>
+    <string name="success_result">Congratulation for successful login!</string>
+    <string name="login_error">Server error! Please Try again later</string>
+    <string name="password">password</string>
+    <string name="username">UserName</string>
+    <string name="user_name_error">Enter a valid user name</string>
+</resources>
